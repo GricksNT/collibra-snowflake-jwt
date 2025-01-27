@@ -93,6 +93,9 @@ With this solution, Collibra workflows can:
 - Load data into Snowflake tables.
 - Extract data from Snowflake for processing in Collibra.
 - Automate workflows requiring secure communication with Snowflake.
+![image](https://github.com/user-attachments/assets/91c7a5b7-3363-4242-92a6-c3ec3b6fbfd9)
+![image](https://github.com/user-attachments/assets/2e17b331-c82a-47bb-858e-5fc49e14636a)
+![image](https://github.com/user-attachments/assets/49b54663-1f37-4353-a938-699cce8604ad)
 
 ## Limitations
 - **Key Management**: Ensure keys are securely stored and managed.
@@ -105,10 +108,9 @@ Feel free to submit pull requests or issues for improvements or feature requests
 This project is licensed under the MIT License. See `LICENSE` for details.
 =======
 # collibra-snowflake-jwt
-This repository contains a Groovy-based solution to authenticate and integrate Collibra workflows with Snowflake using JWT (JSON Web Tokens).  
-![image](https://github.com/user-attachments/assets/91c7a5b7-3363-4242-92a6-c3ec3b6fbfd9)
-![image](https://github.com/user-attachments/assets/2e17b331-c82a-47bb-858e-5fc49e14636a)
-![image](https://github.com/user-attachments/assets/49b54663-1f37-4353-a938-699cce8604ad)
+This repository contains a Groovy-based solution to authenticate and integrate Collibra workflows with Snowflake using JWT (JSON Web Tokens). 
+
+
 
 
 
