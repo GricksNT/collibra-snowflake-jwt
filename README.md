@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Snowflake Authentication Using JWT in Collibra Workflows
 
 ## Overview
@@ -103,3 +104,7 @@ Feel free to submit pull requests or issues for improvements or feature requests
 
 ## License
 This project is licensed under the MIT License. See `LICENSE` for details.
+=======
+# collibra-snowflake-jwt
+This repository contains a Groovy-based solution to authenticate and integrate Collibra workflows with Snowflake using JWT (JSON Web Tokens).  
+>>>>>>> f4064c6591f0926aec439f3dc0a635b75228a445
