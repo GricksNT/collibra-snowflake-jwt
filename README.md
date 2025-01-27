@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Snowflake Authentication Using JWT in Collibra Workflows
 
 ## Overview
